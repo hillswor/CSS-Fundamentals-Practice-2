@@ -45,7 +45,7 @@ a:hover {
 }
 
 
-.button-container {
+.btn-container {
 	display: inline-block;
 	margin: 40px 10px 40px 0px;
 }
@@ -55,29 +55,29 @@ a:hover {
     text-decoration: none;
 }
 
-.orange-button {
+.btn-accent {
 	color: #FFF;
 	background: #EF5839;
 }
 
-.orange-button:hover {
+.btn-accent:hover {
 	background: #F59481;
 }
 
-.orange-button:focus {
+.btn-accent:focus {
 	background: #F59481;
 }
 
-.white-button {
+.btn-white {
 	color: #2E354F;
 	background: #FFF;
 }
 
-.white-button:hover {
+.btn-white:hover {
 	background: #CCCCCC;
 }
 
-.white-button:focus {
+.btn-white:focus {
 	background: #CCCCCC;
 }
 
